@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+# GDAL (conda install GDAL)
